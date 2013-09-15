@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="9fb3d47d-b18a-4312-adf2-13441fbd1c40" 
+        solutionId="9fb3d47d-b18a-4312-adf2-13441fbd1c40" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPNewsList"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="355b2a6e-a4dd-40c6-aecb-5309a8241cea" />
+  </features>
+</package>
